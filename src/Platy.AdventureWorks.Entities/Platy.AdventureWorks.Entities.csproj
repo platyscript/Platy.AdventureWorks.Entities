@@ -11,17 +11,17 @@
     <PackageId>Platy.AdventureWorks.Entities</PackageId>
     <Title>Platy.AdventureWorks.Entities</Title>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Trelston Moraes (@tremorscript)</Authors>
+    <Authors>Trelston Moraes (@platyscript)</Authors>
     <Company>tremorscript.com</Company>
     <Description>A project template for database interactions using the repository pattern. </Description>
     <Summary>A set of base classes shared across Platy.AdventureWorks projects.</Summary>
-    <PackageProjectUrl>https://github.com/tremorscript/Platy.AdventureWorks.Entities</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/platyscript/Platy.AdventureWorks.Entities</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <IncludeContentInPack>true</IncludeContentInPack>
-    <RepositoryUrl>https://github.com/tremorscript/Platy.AdventureWorks.Entities</RepositoryUrl>
+    <RepositoryUrl>https://github.com/platyscript/Platy.AdventureWorks.Entities</RepositoryUrl>
     <PackageTags>DDD;Domain-Driven Design;Repository;ValueObject;Value Object;Clean Architecture;Clean Architecture Template; Entities</PackageTags>
-    <Version>0.0.4</Version>
+    <Version>0.0.5</Version>
     <PackageReleaseNotes>
       * Net9
     </PackageReleaseNotes>
